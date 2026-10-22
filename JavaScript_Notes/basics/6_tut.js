@@ -21,4 +21,3 @@ let valuein_numbs = Boolean(score);
 // "hites"=>true
 
 let someNumber = 33
-let

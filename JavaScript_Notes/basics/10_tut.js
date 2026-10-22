@@ -14,4 +14,7 @@ let user = {
 }
 
 let user2 = user;
-console.log(user2.email)  // dev@gmail.com
+user2.email = "dev@papoa.com"
+console.log(user.email)  //"dev@papoa.com"
+
+
